@@ -1,2 +1,2 @@
 print("hello world")
-Print("你好")
+print("你好")
