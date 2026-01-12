@@ -1,5 +1,5 @@
 Coding Sable Diffusion in pytorch
-This project can be viewed as a key to enter the field.
+This project can be viewed as a journey to enter the field.
 
 **Topic discussed**
 - Latent Diffusion Models from scratch in Pytorch. No other libs used except for tokenizer.
@@ -20,4 +20,4 @@ This project can be viewed as a key to enter the field.
 - How the attention mechanism works
 - How convolution layers work
   
-Detailed framework can be found at thoughts.ipynb
+Detailed framework can be found at framework.ipynb(which will be written in Chinese)
