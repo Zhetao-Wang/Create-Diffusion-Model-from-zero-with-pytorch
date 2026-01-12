@@ -1,5 +1,5 @@
-基于pytorch手搓扩散模型，可以作为新手学习入门项目。
 Coding Sable Diffusion in pytorch
+This project can be viewed as a key to enter the field.
 
 **Topic discussed**
 - Latent Diffusion Models from scratch in Pytorch. No other libs used except for tokenizer.
@@ -11,12 +11,13 @@ Coding Sable Diffusion in pytorch
   
 **Future works**
 - Score-based models
-- ODE and SDE theoretical framework for diffusion models
+- ODE and SDE theoretical framework for diffusion models(which is harder, so I will talk about it later)
 - Eulaer,Runge-Kutta and derived samplers
 
-**Prereuisites for learning this framwork**
+**Prerequisites for learning this framwork**
 - Basic of statisitcs
 - Basic of deeplearning and pytorch
 - How the attention mechanism works
 - How convolution layers work
   
+Detailed framework can be found at thoughts.ipynb
